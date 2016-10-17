@@ -1,0 +1,11 @@
+{
+  "name": "stage_1_video_2",
+  "version": "1.0.0",
+  "description": "app demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "author": "Jen",
+  "license": "ISC"
+}
